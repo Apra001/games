@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Grass" tilewidth="32" tileheight="32" tilecount="8">
+  <tile id="0">
+   <image width="32" height="32" source="grass1.png"/>
+  </tile>
+  <tile id="1">
+   <image width="32" height="32" source="grass2.png"/>
+  </tile>
+  <tile id="2">
+   <image width="32" height="32" source="grass3.png"/>
+  </tile>
+  <tile id="3">
+   <image width="32" height="32" source="dirt1.png"/>
+  </tile>
+  <tile id="4">
+   <image width="32" height="32" source="dirt2.png"/>
+  </tile>
+  <tile id="5">
+   <image width="32" height="32" source="grass3_road1.png"/>
+  </tile>
+  <tile id="6">
+   <image width="32" height="32" source="stone1.png"/>
+  </tile>
+  <tile id="7">
+   <image width="32" height="32" source="water1.png"/>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYAJiZiBmAWJWIGYDYnYg5gBixmEuDwCOAAEh
+  </data>
+ </layer>
+</map>
